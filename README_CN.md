@@ -112,7 +112,7 @@ Google Gemini Pro 密钥.
 
 ### `GOOGLE_URL` (optional)
 
-Google Gemini Pro Api Url.
+Google Gemini Pro Api URL.
 
 ### `HIDE_USER_API_KEY` （可选）
 
